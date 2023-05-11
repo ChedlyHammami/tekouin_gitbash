@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -c 'a' task_1.bash
+grep -c 'bin' task_1.bash
